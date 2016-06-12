@@ -20,5 +20,8 @@ public class TestngTest {
 	public void clean() {
 
 	}
-
+        
+        public static void main(String[] args){
+		System.out.println("test");
+	}
 }
